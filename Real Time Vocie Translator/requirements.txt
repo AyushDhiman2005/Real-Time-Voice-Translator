@@ -1,8 +1,10 @@
-speech_recognition
-gTTS
-playsound
 os
 uuid
 pyttsx3
-pyaudio
 pygame
+streamlit
+deep-translator
+SpeechRecognition
+gTTS
+playsound
+pyaudio
