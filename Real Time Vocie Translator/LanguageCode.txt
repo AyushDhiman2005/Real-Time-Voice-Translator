@@ -1,0 +1,8 @@
+| Language | Code |
+| -------- | ---- |
+| English  | en   |
+| Hindi    | hi   |
+| French   | fr   |
+| Spanish  | es   |
+| German   | de   |
+| Japanese | ja   |

@@ -1,0 +1,13 @@
+This is Real Time Voice translator
+
+Step1: Creating a Function 
+This function will take two arguments
+argument 1: Language option
+argument 2: Query (data)
+return : It return the
+
+
+
+
+ 
+

@@ -1,0 +1,7 @@
+speech_recognition
+gTTS
+playsound
+os
+uuid
+pyttsx3
+pyaudio
