@@ -5,3 +5,4 @@ os
 uuid
 pyttsx3
 pyaudio
+pygame
