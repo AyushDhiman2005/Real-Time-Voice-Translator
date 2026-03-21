@@ -1,5 +1,4 @@
-os
-uuid
+
 pyttsx3
 pygame
 streamlit
